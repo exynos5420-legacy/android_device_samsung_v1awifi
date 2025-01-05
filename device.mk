@@ -15,6 +15,8 @@
 #
 
 LOCAL_PATH := device/samsung/v1awifi
+PRODUCT_FULL_TREBLE_OVERRIDE := true
+
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
