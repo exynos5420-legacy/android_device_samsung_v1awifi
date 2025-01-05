@@ -5,7 +5,7 @@
 lib/liboemcrypto.so:vendor/lib/liboemcrypto.so
 
 # GPS
-bin/gpsd:vendor/bin/gpsd
+bin/gpsd:vendor/bin/hw/gpsd
 lib/hw/gps.default.so:vendor/lib/hw/gps.universal5420.so
 
 # NXP Noise Cancelling
