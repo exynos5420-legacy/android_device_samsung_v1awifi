@@ -25,8 +25,6 @@ TARGET_OTA_ASSERT_DEVICE := v1awifi
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_v1awifi_defconfig
 
-BOARD_VNDK_VERSION := current
-
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 8388608
