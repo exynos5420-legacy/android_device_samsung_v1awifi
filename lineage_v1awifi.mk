@@ -33,8 +33,4 @@ PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=v1awifi \
-    PRIVATE_BUILD_DESC="v1awifixx-user 5.0.2 LRX22G P900XXS0BRI1 release-keys"
-
 BUILD_FINGERPRINT := samsung/v1awifixx/v1awifi:5.0.2/LRX22G/P900XXS0BRI1:user/release-keys
